@@ -1,0 +1,8 @@
+Git-Init: Digunakan untuk membuat repository yang ada pada file lokal dan berlokasi di folder .git. 
+Git Status: Digunakan untuk mengecek status repository lokal. 
+Git add: Digunakan untuk perintah menambahkan file baru ke repository yang baru dipilih. 
+Git commit: Digunakan untuk menyimpan apabila terjadi perubahan dan dilakukan pada repository jarak jauh, namun tidak bisa melakukan perubahan. 
+Git push: Perintah yang digunakan untuk mentransfer perubahan file ke repository jarak jauh setelah melakukan perubahan. 
+Git Checkout: Merupakan perintah dasar yang digunakan untuk menukar cabang aktif dengan cabang yang dipilih. 
+Git Merge: Merupakan perintah dasar yang menggabungkan cabang aktif dengan cabang yang dipilih.
+Git Clone: adalah perintah dasar untuk membuat salinan repository lokal.
