@@ -9,7 +9,7 @@ git clone : perintah untuk checkout repository
 git commit : Untuk melakukan commit
 git status : menampilkan daftar file yang berubah bersama dengan file yang ditambahkan
 git push : untuk mengirimkan perubahan
-git checkout : untuk membuat branch
+git checkout : untuk membuat branch terbaru
 git pull : untuk menggabungkan semua perubahan yang ada di remote repository ke direktori lokal
 git merge : perintah untuk menggabungkan branch ke branch asli
 git log : menampilkan daftar loggit 
