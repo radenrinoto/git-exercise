@@ -5,17 +5,14 @@ git init: Menginisialisasikan git pada folder
 git clone: Mengcopy file git pada repository cloud
 git add: Menambahkan file ke dalam staging
 git commit: Membuat commit untuk di push kedalam repository cloud
-git diff: -
-git reset: -
+git reset: Memundurkan commit menggunakan id tertentu
 git status: Menampilkan status file dalam folder kita yang telah di ubah atau di buat baru
-git rm: -
+git rm: Meng - undo file yang yang sudah masuk kedalam staging (sebelum commit)
 git log: Menampilkan status log branch dan commit
-git show: - 
-git tag: - 
 git branch: Menampilkan List branch pada local git
 git checkout: Berpindah Branch
 git merge: Merge branch yang satu dengan yang lainnya
 git remote: Membuat remote pada repository cloud
 git push: memasukkan Branch kedalam repo
 git pull: Menarik branch/ update kedalam git local
-git stash: -
+git stash: Melakukan penyimpanan branch sementara, ketika terjadi conflict
