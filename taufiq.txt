@@ -1,0 +1,11 @@
+Taufiqurrahman Saleh
+
+Git Command
+
+- Git init: untuk menginisialisasi git didalam project
+- Git push: untuk melakukan push ke repo github
+- Git add <nama file>: untuk memasukkan file ke dalam staging area
+- Git add . : untuk memasukkan semua perubahan ke dalam staging area
+- Git commit: untuk melakukan komen terkait apa yang sudah dilakukan
+- Git clone: untuk melakukan kloning ke suatu project
+- Git remote add <nama>: untuk menambahkan repo remote dalam project
