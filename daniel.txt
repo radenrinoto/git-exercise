@@ -1,0 +1,29 @@
+Git commands:
+- pull: menge-pull perubahan-perubahan kode yang dilakukan oleh orang lain
+  Contoh:
+    - git pull
+    - git pull origin master (menge-pull perubahan-perubahan di branch master)
+    - git pull origin develop (menge-pull perubahan-perubahan di branch develop)
+- add: menambah perubahan-perubahan kode ke staging phase
+  Contoh:
+    - git add * (menambah semua kode yang diubah ke staging phase)
+    - git add daniel.txt (menambah perubahan kode di `daniel.txt` ke staging phase)
+- commit: memastikan perubahan-perubahan kode di staging phase ke local git
+  Contoh:
+    - git commit -m "COMMENT" (Meng-commit dengan komentar, COMMENT bisa diganti dengan komentar 
+        yang diinginkan (lebih baik maksimal 50 huruf saja))
+    - git commit (Meng-commit dengan komentar yang detail.
+        Untuk memasukkan komentar, tekan "i" terlebih dahulu. Setelah selesai menulis komentar, tekan Esc.
+        Lalu, jika sudah pasti tekan ":wq" maka akan sudah di-commit.
+    )
+- push: mengepush kode-kode yang ada di lokal ke remote
+  Contoh:
+    - git push origin master (push commit-an master yang ada di lokal ke remote)
+    - git push origin dev/daniel (push commit-an branch dev/daniel dari lokal ke remote)
+- branch: melihat ada branch-branch apa saja
+  Contoh:
+    - git branch (nanti akan ditampilkan list branch dan sekarang ada di branch mana)
+- checkout: pindah ke branch yang diinginkan
+  Contoh:
+    - git checkout master (pindah ke branch master)
+    - git checkout dev/daniel (pindah ke branch dev/daniel)
