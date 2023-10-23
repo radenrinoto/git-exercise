@@ -1,0 +1,22 @@
+SETUP
+
+- git init: Initialize repo
+- git clone [url]: Clone/copy repo lain
+
+STAGING/SNAPSHOT
+
+- git add [file]: staging file ke index
+- git commit -m "[message detail]": commit pada perubahan ke head.
+- git status: memperlihatkan file yang sudah di modifikasi.
+
+SHARE/UPDATEs
+
+- git push [alias] [branch]: publish perubahan dari lokal ke remote repo
+- git pull: fetch dan merge dari remote repo
+
+BRANCHING
+
+- git branch: menampilkan branch
+- git branch -d [branch name]: delete branch
+- git checkout [branch name]: pindah branch
+- git checkout -b [branch name]: membuat branch baru
