@@ -1,0 +1,12 @@
+(git ini) -> untuk membuat repositori baru.
+(git add) -> untuk memasukan semua changes kedalam directory
+(git commit) -> untuk memberikan commit message pada perubahn ke head
+(git clone) -> untuk mengambil repository yang ada di cloude kedalam local
+(git branch) -> untuk melihat branch apa saja yang ada
+(git checkout <nama branch>) untuk beripindah ke branch lain
+(git branch <nama branch>) untuk membuat branch
+(git status) -> menampilkan daftar file yang berubah bersama dengan file yang ingin di tambahkan atau di-commit.
+(git push) ->  mengirimkan perubahan ke master branch dari remote repository yang berhubungan 
+(git remote -v) -> melihat remote yang terhubung
+(git pull) -> menggabungkan semua perubahan yang ada di remote repository ke direktori lokal
+(git merge) -> menggabungkan sebuah branch ke branch aktif
