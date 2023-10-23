@@ -1,0 +1,19 @@
+git init : membuat reository baru pada local
+git config : mengatur konfigurasi tertentu pada git
+git add : memindahkan file perubahan pada stagging area
+git clone : melakukan kloning repo pada remote git
+git commit : melakukan commit ke head terhadap perubahan yang telah masuk ke staging area
+git status : melihat status atau menampilkan data file yan berubah dan jua perubahan apapun yan dicommit
+git push : melakukan pengirian perubahan ke branch
+git checkout : pindah branch
+git remote: menghubungkan git lokal ke git repository pada remote
+git branch: melihat list branch
+git branch -d : delete branch
+git pull:mengabungkan perubahan pada remote ke lokal git 
+git merge: menggabungkan suatu branch ke branch aktif
+git diff : menampilkan conflicts
+git log : menampilkan log atau history commit
+git rm : menghapus suatu file dari stagging area
+git reset : melakukan reset ke commit tertentu
+git fetch origin : menampilkan semua branch pada remote
+git rebase; melakukan rebase terhadap commit pada suatu branch
