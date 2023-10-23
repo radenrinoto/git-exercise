@@ -1,0 +1,11 @@
+Git init Menginisialisasi repositori Git baru. Jika Anda ingin menempatkan proyek di bawah kendali revisi
+Git add Memindahkan perubahan dari direktori kerja ke staging area.
+Git commit untuk memberikan commit message
+Git clone mengcopy 
+Git branch Melihat branch
+Git branch <nama branch> Membuat branch
+Git checkout <nama branch> Pindah branch
+git push Mengirimkan perubahan
+git pull menggabungkan semua perubahan yang ada di remote repository ke direktori lokal
+git merge menarik branch ke branch yg dipakai
+git status cek status
