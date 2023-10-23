@@ -1,4 +1,4 @@
-(git ini) -> untuk membuat repositori baru.
+(git init) -> untuk membuat repositori baru.
 (git add) -> untuk memasukan semua changes kedalam directory
 (git commit) -> untuk memberikan commit message pada perubahn ke head
 (git clone) -> untuk mengambil repository yang ada di cloude kedalam local
