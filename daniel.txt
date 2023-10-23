@@ -1,0 +1,7 @@
+Git commands:
+- pull: menge-pull perubahan-perubahan kode yang dilakukan oleh orang lain
+- add: menambah perubahan-perubahan kode ke phase staging
+- commit: memastikan perubahan-perubahan kode di phase staging
+- push: mengepush kode-kode yang ada di lokal ke remote
+- branch: melihat ada branch-branch apa saja
+- checkout: pindah ke branch yang diinginkan
