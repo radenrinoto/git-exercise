@@ -3,7 +3,7 @@ Beragam Fungsi Git Command
 Penulis : Muhammad Daffa ZW
 
 git config : konfigurasi dari git baik password . username dll 
-git init : Untuk inisiasi folder baru
+git init : Untuk inisiasi git baru
 git add : perintah untuk menambahkan file ke index
 git clone : perintah untuk checkout repository
 git commit : Untuk melakukan commit
